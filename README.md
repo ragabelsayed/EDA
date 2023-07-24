@@ -1,4 +1,4 @@
-**Exploratory Data Analysis**
+# **Exploratory Data Analysis**
 
 **Task Summary:**
 In this project, we performed an Exploratory Data Analysis (EDA) on multiple datasets. The [datasets](https://www.kaggle.com/datasets/tariqmassaoudi/hespress) include information from Hespress stories such as 'id', 'title', 'date', 'author', 'story', and 'topic'. The goal of the analysis was to gain insights into the combined dataset and distributions present in the data.
